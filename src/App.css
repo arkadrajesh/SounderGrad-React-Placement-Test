@@ -1,0 +1,24 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#navigation {
+  margin-bottom: 2rem;
+}
+
+#navigation button {
+  margin-right: 1rem;
+}
+
+#slide {
+  border: 1px solid #eee;
+  padding: 10px;
+  min-height: 300px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+button {
+    min-width: 80px;
+}
